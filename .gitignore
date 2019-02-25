@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+__pycache__
+cache
+pelican
+*.pid
+*.pyc
+old-pelican*
+public
+*.code-workspace
