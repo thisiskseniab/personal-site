@@ -1,0 +1,10 @@
+theme: "massively"
+baseURL: "http://ksenia.dev/"
+languageCode: "en-us"
+title: "Ksenia Burlachenko"
+googleAnalytics: UA-135168444-1
+
+params.posts:
+  foldername: "post"
+  pagesize: "6"
+  featuredpost: "true"
