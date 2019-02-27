@@ -2,7 +2,7 @@
 title: 'Work'
 slug: 'work'
 date: "2018-08-02T00:00:00"
-description: 'I specialize in Backend Engineering, currently loving Go.'
+description: 'I specialize in Backend Engineering, currently loving Golang 💻'
 disableComments: true
 ---
 
