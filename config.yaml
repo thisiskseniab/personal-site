@@ -1,8 +1,9 @@
 theme: "massively"
-baseURL: "http://ksenia.dev/"
+baseURL: "https://www.ksenia.dev/"
 languageCode: "en-us"
 title: "Ksenia Burlachenko"
 googleAnalytics: UA-135168444-1
+uglyurls: true
 
 params.posts:
   foldername: "post"
