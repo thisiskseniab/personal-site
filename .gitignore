@@ -8,3 +8,5 @@ pelican
 old-pelican*
 public
 *.code-workspace
+node_modules
+resources
