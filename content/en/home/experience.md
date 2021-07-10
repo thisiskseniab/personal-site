@@ -13,11 +13,19 @@ subtitle = "how THIS happened"
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
+  title = "Engineering Manager"
+  subtitle = "Cedar"
+  location = "remote and San Francisco, CA"
+  date_start = "2021-07-01"
+  date_end = ""
+  description = "Engineering manager leading a team of four software engineers. Mentoring and supporting the career growth of the team members and collaborating with cross-functional partners on ensuring the execution of planned objectives."
+
+[[period]]
   title = "Senior Software Engineer"
   subtitle = "OODA Health, acquired by Cedar"
   location = "remote and San Francisco, CA"
   date_start = "2021-03-01"
-  date_end = ""
+  date_end = "2021-07-01"
   description = "Responsible in execusion of product features on the OODA Pay product, a patient app which simplifies healthcare billing experience for patients."
 
 [[period]]

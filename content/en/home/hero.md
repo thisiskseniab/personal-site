@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpeg"
 
 +++
 
-# Senior Software Engineer.
+# Engineering manager.
 
 Hi, my name is Ksenia 👋
-I'm a senior software engineer and an engineering leader based in Oakland, CA ✨
+I'm an engineering manager and an experienced senior software engineer based in Oakland, CA ✨
