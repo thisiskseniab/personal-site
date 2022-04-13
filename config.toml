@@ -50,7 +50,7 @@ alt = "github icon"
 blank = true
 icon = "/icons/github.svg"
 name = "github"
-url = "https://github.com/ksenish"
+url = "https://github.com/thisiskseniab"
 
 [[params.social]]
 alt = "linkedin icon"
@@ -64,14 +64,14 @@ alt = "twitter icon"
 blank = true
 icon = "/icons/twitter.svg"
 name = "twitter"
-url = "https://twitter.com/ksenish"
+url = "https://twitter.com/thisiskseniab"
 
 [[params.social]]
 alt = "instagram icon"
 blank = true
 icon = "/icons/instagram.svg"
 name = "instagram"
-url = "https://instagram.com/ksenish"
+url = "https://www.instagram.com/thisiskseniab/"
 
 # Navigation bar
 [menu]

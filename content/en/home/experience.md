@@ -18,7 +18,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "remote and San Francisco, CA"
   date_start = "2021-07-01"
   date_end = ""
-  description = "Engineering manager leading a team of four software engineers. Mentoring and supporting the career growth of the team members and collaborating with cross-functional partners on ensuring the execution of planned objectives."
+  description = "Engineering manager leading two teams of eight software engineers. Mentoring and supporting the career growth of the team members and collaborating with cross-functional partners on ensuring the execution of planned objectives."
 
 [[period]]
   title = "Senior Software Engineer"
