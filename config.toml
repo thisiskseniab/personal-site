@@ -82,11 +82,11 @@ pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/"
 weight = 10
 
-# [[menu.main]]
-# identifier = "blog" # identifier is use for translations
-# pre = "" # pre is inserted before the translation (icons, image, etc)
-# url = "/blog/"
-# weight = 20
+[[menu.main]]
+identifier = "about" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/about.html"
+weight = 20
 
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
