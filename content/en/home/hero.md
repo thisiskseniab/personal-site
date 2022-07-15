@@ -28,4 +28,6 @@ hero_media = "/img/portrait.jpeg"
 # Engineering manager.
 
 Hi, my name is Ksenia 👋
-I'm an engineering manager and an experienced senior software engineer based in Oakland, CA ✨
+
+
+I’m an engineering manager and an experienced senior software engineer based in San Francisco, CA ✨
