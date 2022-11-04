@@ -14,16 +14,24 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
 
 [[period]]
   title = "Engineering Manager"
-  subtitle = "Cedar"
+  subtitle = "Pilot.com"
   location = "remote and San Francisco, CA"
+  date_start = "2022-10-01"
+  date_end = ""
+  description = "Engineering manager on the Financial Inputs team."
+
+[[period]]
+  title = "Engineering Manager"
+  subtitle = "Cedar"
+  location = "remote"
   date_start = "2021-07-01"
-  date_end = "2022-07-01"
-  description = "Engineering manager leading two teams of ten software engineers. Mentoring and supporting the career growth of the team members and collaborating with cross-functional partners on ensuring the execution of planned objectives."
+  date_end = "2022-08-01"
+  description = "Leading two teams of ten software engineers. Mentoring and supporting the career growth of the team members and collaborating with cross-functional partners on ensuring the execution of planned objectives."
 
 [[period]]
   title = "Senior Software Engineer"
   subtitle = "OODA Health, acquired by Cedar"
-  location = "remote and San Francisco, CA"
+  location = "remote"
   date_start = "2021-03-01"
   date_end = "2021-07-01"
   description = "Responsible in execusion of product features on the OODA Pay product, a patient app which simplifies healthcare billing experience for patients."
@@ -48,15 +56,8 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   title = "Software Engineer"
   subtitle = "Perforce Software"
   location = "Alameda, CA"
-  date_start = "2016-02-01"
+  date_start = "2013-06-01"
   date_end = "2017-09-01"
   description = "Software Engineer on the Core Server product (Helix Versioning Engine). Maintaining and adding features to the 15+-year-old C++ codebase, as well as being involved in the feature development of a brand-new Git<>Perforce project."
 
-[[period]]
-  title = "Lead Software Engineer in Test"
-  subtitle = "Perforce Software"
-  location = "Alameda, CA"
-  date_start = "2013-06-01"
-  date_end = "2016-02-01"
-  description = "Worked on automated testing of projects around integrating Git and Perforce. Verifying the integrity of Git and Perforce history. Designed and implemented a test framework for installing product artifacts on every supported platform. Mentored other software engineers in test on the team."
 +++
