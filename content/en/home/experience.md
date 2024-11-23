@@ -18,7 +18,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "remote and San Francisco, CA"
   date_start = "2022-10-01"
   date_end = ""
-  description = "Engineering manager on the Financial Inputs team."
+  description = "Engineering manager."
 
 [[period]]
   title = "Engineering Manager"

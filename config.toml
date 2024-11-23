@@ -1,6 +1,6 @@
 # Use an empty string if you have multiple domain linking to your website
 # This string is used to generate the absolute URL for your assets.
-baseURL = 'https://ksenia.dev/'
+baseURL = 'https://www.ksenia.dev/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
@@ -58,13 +58,6 @@ blank = true
 icon = "/icons/linkedin.svg"
 name = "linkedin"
 url = "https://www.linkedin.com/in/kseniaburlachenko/"
-
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/thisiskseniab"
 
 [[params.social]]
 alt = "instagram icon"
